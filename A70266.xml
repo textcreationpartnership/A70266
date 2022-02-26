@@ -1,0 +1,1400 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the acres &amp; houses, with the proportional tax &amp;c. of each county in England and Wales humbly presented to the Lords and Commons.</title>
+            <author>Houghton, John, 1640-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70266</idno>
+            <idno type="STC">Wing H2920</idno>
+            <idno type="STC">ESTC R13814</idno>
+            <idno type="EEBO-CITATION">11837590</idno>
+            <idno type="OCLC">ocm 11837590</idno>
+            <idno type="VID">49772</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70266)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49772)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:31, 497:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the acres &amp; houses, with the proportional tax &amp;c. of each county in England and Wales humbly presented to the Lords and Commons.</title>
+                  <author>Houghton, John, 1640-1705.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: John Houghton.</note>
+                  <note>Listed by Wing as A227A (number canceled in Wing 2nd ed.) on reel 2:31, and as Wing (2nd ed.) H2920 on reel 497:29.</note>
+                  <note>Reproduction of originals in the Huntington Library and the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  England --  Tables.</term>
+               <term>Taxation --  Wales --  Tables.</term>
+               <term>Real property tax --  England --  Tables.</term>
+               <term>Real property tax --  Wales --  Tables.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49772:1"/>
+            <head>An ACCOUNT of the <hi>Acres &amp; Houſes, with the Proportional Tax,</hi> &amp;c. Of each COUNTY in ENGLAND and WALES, Humbly Preſented to the LORDS and COMMONS.</head>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>My Lords and Gentlemen,</salute>
+                  </opener>
+                  <p>DEſigning the Welfare of my Country, I have Publiſhed <hi>Three</hi> Volumns of <hi>Collections</hi> for Improvement of <hi>Husbandry</hi> and <hi>Trade:</hi> In the <hi>firſt</hi> whereof, Numb. 13. are ſome Conſiderations for Subſcriptions upon Lives, (now again in De<g ref="char:EOLhyphen"/>bate) and publiſhed by its ſelf in Two Sheets: In <hi>Other Places</hi> of them, are the <hi>Matter</hi> and <hi>Uſe</hi> of <hi>Money,</hi> with ſeveral other (I preſume) uſeful Notes. In the <hi>Laſt</hi> (now perfected, with an Index) I promiſed this <hi>Table,</hi> all the <hi>Uſes</hi> whereof will be hard to enumerate, altho' a great many I ſhall give in my next <hi>Collections;</hi> a Taſte whereof beſeeches your Acceptance, as follows.</p>
+                  <p>Of the <hi>Proportional Tax in Decimals,</hi> I have the whole Computation by me; with it an <hi>Arithmetician,</hi> in two or three Hours, may proportion each Counties Share of any Number of Thouſand Pounds; whatſoever ſhall be laid. And if it ſhould be laid wholly on<g ref="char:punc">▪</g> 
+                     <hi>Acres</hi> or <hi>Houſes,</hi> it would prove near, as in the <hi>Table;</hi> In which I remark, That <hi>London,</hi> or the <hi>Lord Mayor's Jurisdiction</hi> only, without the Suburbs in <hi>Middleſex</hi> and <hi>Southwark,</hi> bears near the Sixteenth Part of the <hi>Tax:</hi> That <hi>Middleſex,</hi> abſtracted from <hi>London,</hi> (the <hi>Lord Mayor's Jurisdiction</hi>) bears near the Two and Twentieth and half Part of the <hi>Tax:</hi> And both together, abſtracted from <hi>Southwark,</hi> bears the Ninth and half Part of the <hi>Tax:</hi> That <hi>Cumberland</hi> bears but One Penny the <hi>Acre</hi> towards the <hi>Tax;</hi> but <hi>Middleſex</hi> (including <hi>London</hi>) bears <hi>Five Shillings</hi> and <hi>Eleven Pence</hi> the <hi>Acre:</hi> That <hi>Yorkſhire</hi> has about the Tenth and half part of the <hi>Acres</hi> of the <hi>whole Kingdom,</hi> the Eleventh Part of the <hi>Houſes</hi> (much about the ſame Number with the <hi>Bills</hi> of <hi>Mortality</hi>) and bears about the Twentieth Part of the <hi>Tax.</hi> It ſeems to me, that the Places <hi>Over-charged</hi> have about 150 Parliament Men: Thoſe <hi>Under-charged,</hi> about 130 Men: Thoſe that have no reaſon to complain, about 220 Men. Whether this <hi>Table</hi> may ſhew Reaſon for Alteration of the Method of <hi>Taxing,</hi> I ſubmit to <hi>proper Judges.</hi> The <hi>Matter of Fact</hi> I here endeavour to Demonſtrate; and am,</p>
+                  <closer>
+                     <salute>My Lords and Gentlemen,</salute>
+                     <signed>Your moſt Obedient Servant, <hi>John Houghton,</hi> F.R.S.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" rows="2">Counties.</cell>
+                     <cell role="label" cols="3">
+                        <hi>Monthly Tax,</hi> 1691.</cell>
+                     <cell role="label" rows="2">Proportional Tax in Decimals.</cell>
+                     <cell role="label" rows="2">Acres.</cell>
+                     <cell role="label" rows="2">Houſes.</cell>
+                     <cell role="label" cols="3">Parts of the whole</cell>
+                     <cell role="label" rows="2">Acres <hi>per</hi> Houſe.</cell>
+                     <cell role="label" cols="2">
+                        <hi>Years Tax per</hi> Acre.</cell>
+                     <cell role="label" cols="2">
+                        <hi>Years Tax per</hi> Houſe.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">Tax.</cell>
+                     <cell role="label">Acres.</cell>
+                     <cell role="label">Houſes.</cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bedford.</hi>
+                     </cell>
+                     <cell>1793</cell>
+                     <cell>15.</cell>
+                     <cell>6</cell>
+                     <cell>013032186</cell>
+                     <cell>260000</cell>
+                     <cell>12170</cell>
+                     <cell>a 77th</cell>
+                     <cell>a 154th</cell>
+                     <cell>a 96th</cell>
+                     <cell>21</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                     <cell>35</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bucks.</hi>
+                     </cell>
+                     <cell>2630.</cell>
+                     <cell>12.</cell>
+                     <cell>10</cell>
+                     <cell>019112214</cell>
+                     <cell>441000</cell>
+                     <cell>18390</cell>
+                     <cell>52</cell>
+                     <cell>91</cell>
+                     <cell>63</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>5 ¼</cell>
+                     <cell>34</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Berks.</hi>
+                     </cell>
+                     <cell>2264.</cell>
+                     <cell>13.</cell>
+                     <cell>2</cell>
+                     <cell>016453262</cell>
+                     <cell>527000</cell>
+                     <cell>16906</cell>
+                     <cell>61</cell>
+                     <cell>76</cell>
+                     <cell>69</cell>
+                     <cell>31</cell>
+                     <cell>1</cell>
+                     <cell>0 ½</cell>
+                     <cell>32</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cambridge.</hi>
+                     </cell>
+                     <cell>2040.</cell>
+                     <cell>0.</cell>
+                     <cell>0</cell>
+                     <cell>014821067</cell>
+                     <cell>570000</cell>
+                     <cell>17347</cell>
+                     <cell>50</cell>
+                     <cell>70</cell>
+                     <cell>67</cell>
+                     <cell>33</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>38</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ely.</hi>
+                     </cell>
+                     <cell>699.</cell>
+                     <cell>15.</cell>
+                     <cell>10</cell>
+                     <cell>005084147</cell>
+                     <cell>570000</cell>
+                     <cell>17347</cell>
+                     <cell>50</cell>
+                     <cell>70</cell>
+                     <cell>67</cell>
+                     <cell>33</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>38</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cheſter.</hi>
+                     </cell>
+                     <cell>1495.</cell>
+                     <cell>14.</cell>
+                     <cell>4</cell>
+                     <cell>010866724</cell>
+                     <cell>720000</cell>
+                     <cell>24054</cell>
+                     <cell>86</cell>
+                     <cell>55</cell>
+                     <cell>48 ½</cell>
+                     <cell>30</cell>
+                     <cell>0</cell>
+                     <cell>6 ½</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cheſter</hi>-City.</cell>
+                     <cell>106.</cell>
+                     <cell>16.</cell>
+                     <cell>8</cell>
+                     <cell>000776168</cell>
+                     <cell>720000</cell>
+                     <cell>24054</cell>
+                     <cell>86</cell>
+                     <cell>55</cell>
+                     <cell>48 ½</cell>
+                     <cell>30</cell>
+                     <cell>0</cell>
+                     <cell>6 ½</cell>
+                     <cell>16</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cornwall.</hi>
+                     </cell>
+                     <cell>3081.</cell>
+                     <cell>16.</cell>
+                     <cell>6</cell>
+                     <cell>022390164</cell>
+                     <cell>960000</cell>
+                     <cell>25374</cell>
+                     <cell>45</cell>
+                     <cell>42</cell>
+                     <cell>46</cell>
+                     <cell>38</cell>
+                     <cell>0</cell>
+                     <cell>9 ¼</cell>
+                     <cell>29</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cumberland.</hi>
+                     </cell>
+                     <cell>336.</cell>
+                     <cell>12.</cell>
+                     <cell>2</cell>
+                     <cell>002445536</cell>
+                     <cell>1040000</cell>
+                     <cell>14825</cell>
+                     <cell>410</cell>
+                     <cell>38 ½</cell>
+                     <cell>78 ½</cell>
+                     <cell>70</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>05</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Derby.</hi>
+                     </cell>
+                     <cell>1724.</cell>
+                     <cell>16.</cell>
+                     <cell>8</cell>
+                     <cell>012531308</cell>
+                     <cell>680000</cell>
+                     <cell>21155</cell>
+                     <cell>80</cell>
+                     <cell>59</cell>
+                     <cell>55</cell>
+                     <cell>32</cell>
+                     <cell>0</cell>
+                     <cell>7 ¼</cell>
+                     <cell>19</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Devon.</hi>
+                     </cell>
+                     <cell>6459.</cell>
+                     <cell>18.</cell>
+                     <cell>4</cell>
+                     <cell>046932775</cell>
+                     <cell>1920000</cell>
+                     <cell>56310</cell>
+                     <cell>21</cell>
+                     <cell>21</cell>
+                     <cell>21</cell>
+                     <cell>34</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>28</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Exeter.</hi>
+                     </cell>
+                     <cell>232.</cell>
+                     <cell>14.</cell>
+                     <cell>8</cell>
+                     <cell>001690860</cell>
+                     <cell>1920000</cell>
+                     <cell>56310</cell>
+                     <cell>21</cell>
+                     <cell>21</cell>
+                     <cell>21</cell>
+                     <cell>34</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>28</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dorſet.</hi>
+                     </cell>
+                     <cell>2689.</cell>
+                     <cell>0.</cell>
+                     <cell>10</cell>
+                     <cell>019536505</cell>
+                     <cell>772000</cell>
+                     <cell>21944</cell>
+                     <cell>51</cell>
+                     <cell>52</cell>
+                     <cell>53</cell>
+                     <cell>35</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>29</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pool.</hi>
+                     </cell>
+                     <cell>21.</cell>
+                     <cell>19.</cell>
+                     <cell>4</cell>
+                     <cell>000159593</cell>
+                     <cell>772000</cell>
+                     <cell>21944</cell>
+                     <cell>51</cell>
+                     <cell>52</cell>
+                     <cell>53</cell>
+                     <cell>35</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>29</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Durham.</hi>
+                     </cell>
+                     <cell>647.</cell>
+                     <cell>13.</cell>
+                     <cell>6</cell>
+                     <cell>004705507</cell>
+                     <cell>610000</cell>
+                     <cell>15984</cell>
+                     <cell>212</cell>
+                     <cell>66</cell>
+                     <cell>73</cell>
+                     <cell>38</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>09</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>York.</hi>
+                     </cell>
+                     <cell>6938.</cell>
+                     <cell>10.</cell>
+                     <cell>4</cell>
+                     <cell>050409913</cell>
+                     <cell>3770000</cell>
+                     <cell>106151</cell>
+                     <cell>20</cell>
+                     <cell>10 ½</cell>
+                     <cell>11</cell>
+                     <cell>35</cell>
+                     <cell>0</cell>
+                     <cell>5 ¼</cell>
+                     <cell>15</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Eſlex.</hi>
+                     </cell>
+                     <cell>6196.</cell>
+                     <cell>17.</cell>
+                     <cell>8</cell>
+                     <cell>045021777</cell>
+                     <cell>1240000</cell>
+                     <cell>34819</cell>
+                     <cell>22</cell>
+                     <cell>32</cell>
+                     <cell>33 ½</cell>
+                     <cell>36</cell>
+                     <cell>1</cell>
+                     <cell>2 ½</cell>
+                     <cell>43</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gloceſter.</hi>
+                     </cell>
+                     <cell>3617.</cell>
+                     <cell>0.</cell>
+                     <cell>6</cell>
+                     <cell>026278514</cell>
+                     <cell>800000</cell>
+                     <cell>26764</cell>
+                     <cell>37 ½</cell>
+                     <cell>50</cell>
+                     <cell>43 ½</cell>
+                     <cell>30</cell>
+                     <cell>1</cell>
+                     <cell>1 ¼</cell>
+                     <cell>33</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gloceſter</hi>-City.</cell>
+                     <cell>78.</cell>
+                     <cell>16.</cell>
+                     <cell>0</cell>
+                     <cell>000572500</cell>
+                     <cell>800000</cell>
+                     <cell>26764</cell>
+                     <cell>37 ½</cell>
+                     <cell>50</cell>
+                     <cell>43 ½</cell>
+                     <cell>30</cell>
+                     <cell>1</cell>
+                     <cell>1 ¼</cell>
+                     <cell>33</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hereford.</hi>
+                     </cell>
+                     <cell>2203.</cell>
+                     <cell>6.</cell>
+                     <cell>8</cell>
+                     <cell>016443636</cell>
+                     <cell>660000</cell>
+                     <cell>15006</cell>
+                     <cell>61</cell>
+                     <cell>61</cell>
+                     <cell>77 ½</cell>
+                     <cell>44</cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>36</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hertford.</hi>
+                     </cell>
+                     <cell>2691.</cell>
+                     <cell>12.</cell>
+                     <cell>6</cell>
+                     <cell>019555272</cell>
+                     <cell>451000</cell>
+                     <cell>16569</cell>
+                     <cell>51</cell>
+                     <cell>89</cell>
+                     <cell>70</cell>
+                     <cell>27 ½</cell>
+                     <cell>1</cell>
+                     <cell>5 ¼</cell>
+                     <cell>39</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Huntington.</hi>
+                     </cell>
+                     <cell>1267.</cell>
+                     <cell>8.</cell>
+                     <cell>4</cell>
+                     <cell>009208073</cell>
+                     <cell>240000</cell>
+                     <cell>8217</cell>
+                     <cell>109</cell>
+                     <cell>166</cell>
+                     <cell>142</cell>
+                     <cell>29</cell>
+                     <cell>1</cell>
+                     <cell>3 ¼</cell>
+                     <cell>37</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Kent.</hi>
+                     </cell>
+                     <cell>6653.</cell>
+                     <cell>17.</cell>
+                     <cell>4</cell>
+                     <cell>048341866</cell>
+                     <cell>1248000</cell>
+                     <cell>39242</cell>
+                     <cell>21</cell>
+                     <cell>32</cell>
+                     <cell>29</cell>
+                     <cell>32</cell>
+                     <cell>1</cell>
+                     <cell>3 ¼</cell>
+                     <cell>41</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lancaſter.</hi>
+                     </cell>
+                     <cell>2013.</cell>
+                     <cell>7.</cell>
+                     <cell>0</cell>
+                     <cell>014627449</cell>
+                     <cell>1150000</cell>
+                     <cell>40202</cell>
+                     <cell>68</cell>
+                     <cell>35</cell>
+                     <cell>29</cell>
+                     <cell>28 ½</cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>12</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Leiceſter.</hi>
+                     </cell>
+                     <cell>2169.</cell>
+                     <cell>8.</cell>
+                     <cell>6</cell>
+                     <cell>015761370</cell>
+                     <cell>560000</cell>
+                     <cell>18702</cell>
+                     <cell>64</cell>
+                     <cell>71 ½</cell>
+                     <cell>62</cell>
+                     <cell>30 ½</cell>
+                     <cell>0</cell>
+                     <cell>11</cell>
+                     <cell>28</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lincoln.</hi>
+                     </cell>
+                     <cell>5150.</cell>
+                     <cell>4.</cell>
+                     <cell>0</cell>
+                     <cell>037417383</cell>
+                     <cell>1740000</cell>
+                     <cell>40590</cell>
+                     <cell>27</cell>
+                     <cell>23</cell>
+                     <cell>28 ½</cell>
+                     <cell>43</cell>
+                     <cell>0</cell>
+                     <cell>8 ½</cell>
+                     <cell>30</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>London.</hi>
+                     </cell>
+                     <cell>8583.</cell>
+                     <cell>2.</cell>
+                     <cell>8</cell>
+                     <cell>062358430</cell>
+                     <cell>247000</cell>
+                     <cell>30997</cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                     <cell>37 ½</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>66</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Middleſex, Weſtm.</hi>
+                     </cell>
+                     <cell>6081.</cell>
+                     <cell>0.</cell>
+                     <cell>0</cell>
+                     <cell>044179858</cell>
+                     <cell>247000</cell>
+                     <cell>69139</cell>
+                     <cell>22 ½ 9 ½</cell>
+                     <cell>162</cell>
+                     <cell>16 ½</cell>
+                     <cell>3 ½</cell>
+                     <cell>5</cell>
+                     <cell>11</cell>
+                     <cell>21</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Monmouth.</hi>
+                     </cell>
+                     <cell>780.</cell>
+                     <cell>0.</cell>
+                     <cell>0</cell>
+                     <cell>005666878</cell>
+                     <cell>340000</cell>
+                     <cell>6490</cell>
+                     <cell>177</cell>
+                     <cell>118</cell>
+                     <cell>180</cell>
+                     <cell>52</cell>
+                     <cell>0</cell>
+                     <cell>6 ½</cell>
+                     <cell>28</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Northampton.</hi>
+                     </cell>
+                     <cell>2827.</cell>
+                     <cell>16.</cell>
+                     <cell>4</cell>
+                     <cell>020544736</cell>
+                     <cell>550000</cell>
+                     <cell>24808</cell>
+                     <cell>49</cell>
+                     <cell>73</cell>
+                     <cell>47</cell>
+                     <cell>22 ½</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>27</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nottingham.</hi>
+                     </cell>
+                     <cell>1746.</cell>
+                     <cell>16.</cell>
+                     <cell>0</cell>
+                     <cell>012690902</cell>
+                     <cell>560000</cell>
+                     <cell>17554</cell>
+                     <cell>79</cell>
+                     <cell>71 ½</cell>
+                     <cell>66 ½</cell>
+                     <cell>32</cell>
+                     <cell>0</cell>
+                     <cell>9</cell>
+                     <cell>24</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Norfolk.</hi>
+                     </cell>
+                     <cell>6741.</cell>
+                     <cell>4.</cell>
+                     <cell>0</cell>
+                     <cell>048976362</cell>
+                     <cell>1148000</cell>
+                     <cell>47180</cell>
+                     <cell>19 ½</cell>
+                     <cell>35</cell>
+                     <cell>24 ½</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>36</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Norwich.</hi>
+                     </cell>
+                     <cell>360.</cell>
+                     <cell>0.</cell>
+                     <cell>0</cell>
+                     <cell>002615482</cell>
+                     <cell>1148000</cell>
+                     <cell>47180</cell>
+                     <cell>19 ½</cell>
+                     <cell>35</cell>
+                     <cell>24 ½</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>36</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Northumberland.</hi>
+                     </cell>
+                     <cell>745.</cell>
+                     <cell>11.</cell>
+                     <cell>4</cell>
+                     <cell>005416712</cell>
+                     <cell>1370000</cell>
+                     <cell>22741</cell>
+                     <cell>184</cell>
+                     <cell>29</cell>
+                     <cell>51</cell>
+                     <cell>60</cell>
+                     <cell>0</cell>
+                     <cell>1 ½</cell>
+                     <cell>07</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Oxon.</hi>
+                     </cell>
+                     <cell>2271.</cell>
+                     <cell>1.</cell>
+                     <cell>4</cell>
+                     <cell>016499819</cell>
+                     <cell>534000</cell>
+                     <cell>19007</cell>
+                     <cell>61</cell>
+                     <cell>75</cell>
+                     <cell>61 ½</cell>
+                     <cell>28</cell>
+                     <cell>0</cell>
+                     <cell>12 ¼</cell>
+                     <cell>28</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Rutland.</hi>
+                     </cell>
+                     <cell>480.</cell>
+                     <cell>17.</cell>
+                     <cell>10</cell>
+                     <cell>003493788</cell>
+                     <cell>110000</cell>
+                     <cell>3263</cell>
+                     <cell>287</cell>
+                     <cell>364</cell>
+                     <cell>357</cell>
+                     <cell>34</cell>
+                     <cell>1</cell>
+                     <cell>0 ½</cell>
+                     <cell>35</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Salop.</hi>
+                     </cell>
+                     <cell>2407.</cell>
+                     <cell>8.</cell>
+                     <cell>4</cell>
+                     <cell>017490433</cell>
+                     <cell>890000</cell>
+                     <cell>23284</cell>
+                     <cell>57</cell>
+                     <cell>45</cell>
+                     <cell>50</cell>
+                     <cell>38 ½</cell>
+                     <cell>0</cell>
+                     <cell>73/4</cell>
+                     <cell>24</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stafford.</hi>
+                     </cell>
+                     <cell>1705.</cell>
+                     <cell>3.</cell>
+                     <cell>4</cell>
+                     <cell>012388426</cell>
+                     <cell>810000</cell>
+                     <cell>23747</cell>
+                     <cell>80 ½</cell>
+                     <cell>49</cell>
+                     <cell>49</cell>
+                     <cell>34</cell>
+                     <cell>0</cell>
+                     <cell>6 ¼</cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Litchfield.</hi>
+                     </cell>
+                     <cell>26.</cell>
+                     <cell>0.</cell>
+                     <cell>0</cell>
+                     <cell>000188896</cell>
+                     <cell>810000</cell>
+                     <cell>23747</cell>
+                     <cell>80 ½</cell>
+                     <cell>49</cell>
+                     <cell>49</cell>
+                     <cell>34</cell>
+                     <cell>0</cell>
+                     <cell>6 ¼</cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Somerſet.</hi>
+                     </cell>
+                     <cell>5543.</cell>
+                     <cell>1.</cell>
+                     <cell>4</cell>
+                     <cell>040271649</cell>
+                     <cell>1075000</cell>
+                     <cell>44686</cell>
+                     <cell>25</cell>
+                     <cell>37</cell>
+                     <cell>26</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                     <cell>32</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Briſtol.</hi>
+                     </cell>
+                     <cell>398.</cell>
+                     <cell>16.</cell>
+                     <cell>8</cell>
+                     <cell>002897615</cell>
+                     <cell> </cell>
+                     <cell>5122</cell>
+                     <cell>345</cell>
+                     <cell> </cell>
+                     <cell>227</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>18</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Southampton.</hi>
+                     </cell>
+                     <cell>4378.</cell>
+                     <cell>17.</cell>
+                     <cell>4</cell>
+                     <cell>031813469</cell>
+                     <cell>1312500</cell>
+                     <cell>26851</cell>
+                     <cell>31 ½</cell>
+                     <cell>30 ½</cell>
+                     <cell>43 ½</cell>
+                     <cell>49</cell>
+                     <cell>0</cell>
+                     <cell>9 ½</cell>
+                     <cell>39</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Suffolk.</hi>
+                     </cell>
+                     <cell>6597.</cell>
+                     <cell>1.</cell>
+                     <cell>4</cell>
+                     <cell>047929200</cell>
+                     <cell>995000</cell>
+                     <cell>34422</cell>
+                     <cell>21</cell>
+                     <cell>40</cell>
+                     <cell>34</cell>
+                     <cell>29</cell>
+                     <cell>1</cell>
+                     <cell>7</cell>
+                     <cell>46</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Surry.</hi>
+                     </cell>
+                     <cell>3194.</cell>
+                     <cell>0.</cell>
+                     <cell>4</cell>
+                     <cell>023205262</cell>
+                     <cell>592000</cell>
+                     <cell>34218</cell>
+                     <cell>43</cell>
+                     <cell>68</cell>
+                     <cell>34</cell>
+                     <cell>17 ½</cell>
+                     <cell>1</cell>
+                     <cell>3 ½</cell>
+                     <cell>22</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Suſſex.</hi>
+                     </cell>
+                     <cell>3642.</cell>
+                     <cell>15.</cell>
+                     <cell>6</cell>
+                     <cell>026465594</cell>
+                     <cell>1140000</cell>
+                     <cell>21537</cell>
+                     <cell>38</cell>
+                     <cell>35</cell>
+                     <cell>54</cell>
+                     <cell>53</cell>
+                     <cell>0</cell>
+                     <cell>9 ¼</cell>
+                     <cell>40</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Warwick.</hi>
+                     </cell>
+                     <cell>2384.</cell>
+                     <cell>17.</cell>
+                     <cell>6</cell>
+                     <cell>017326663</cell>
+                     <cell>670000</cell>
+                     <cell>21973</cell>
+                     <cell>58</cell>
+                     <cell>60</cell>
+                     <cell>53</cell>
+                     <cell>30</cell>
+                     <cell>0</cell>
+                     <cell>10 ¼</cell>
+                     <cell>26</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Worceſter.</hi>
+                     </cell>
+                     <cell>2107.</cell>
+                     <cell>18.</cell>
+                     <cell>0</cell>
+                     <cell>015314376</cell>
+                     <cell>540000</cell>
+                     <cell>20634</cell>
+                     <cell>62</cell>
+                     <cell>74</cell>
+                     <cell>56 ½</cell>
+                     <cell>26</cell>
+                     <cell>0</cell>
+                     <cell>113/4</cell>
+                     <cell>25</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Worceſter</hi> City.</cell>
+                     <cell>110.</cell>
+                     <cell>19.</cell>
+                     <cell>0</cell>
+                     <cell>000806077</cell>
+                     <cell>540000</cell>
+                     <cell>20634</cell>
+                     <cell>62</cell>
+                     <cell>74</cell>
+                     <cell>56 ½</cell>
+                     <cell>26</cell>
+                     <cell>0</cell>
+                     <cell>113/4</cell>
+                     <cell>25</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Wilts.</hi>
+                     </cell>
+                     <cell>3933.</cell>
+                     <cell>15.</cell>
+                     <cell>2</cell>
+                     <cell>028579655</cell>
+                     <cell>876000</cell>
+                     <cell>27093</cell>
+                     <cell>35</cell>
+                     <cell>46</cell>
+                     <cell>43</cell>
+                     <cell>32</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>35</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Weſtmoreland.</hi>
+                     </cell>
+                     <cell>232.</cell>
+                     <cell>0.</cell>
+                     <cell>0</cell>
+                     <cell>001685533</cell>
+                     <cell>510000</cell>
+                     <cell>6501</cell>
+                     <cell>595</cell>
+                     <cell>78 ½</cell>
+                     <cell>179</cell>
+                     <cell>79</cell>
+                     <cell>0</cell>
+                     <cell>1 ½</cell>
+                     <cell>8</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Angleſey.</hi>
+                     </cell>
+                     <cell>251.</cell>
+                     <cell>7.</cell>
+                     <cell>4</cell>
+                     <cell>001826234</cell>
+                     <cell>200000</cell>
+                     <cell>1840</cell>
+                     <cell>550</cell>
+                     <cell>200</cell>
+                     <cell>630</cell>
+                     <cell>109</cell>
+                     <cell>0</cell>
+                     <cell>3 ½</cell>
+                     <cell>32</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brecknock.</hi>
+                     </cell>
+                     <cell>565.</cell>
+                     <cell>0.</cell>
+                     <cell>11</cell>
+                     <cell>004105187</cell>
+                     <cell>620000</cell>
+                     <cell>5934</cell>
+                     <cell>244</cell>
+                     <cell>65</cell>
+                     <cell>197</cell>
+                     <cell>104</cell>
+                     <cell>0</cell>
+                     <cell>21/3</cell>
+                     <cell>22</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cardigan.</hi>
+                     </cell>
+                     <cell>211.</cell>
+                     <cell>11.</cell>
+                     <cell>7</cell>
+                     <cell>001537171</cell>
+                     <cell>520000</cell>
+                     <cell>3163</cell>
+                     <cell>650</cell>
+                     <cell>77</cell>
+                     <cell>370</cell>
+                     <cell>164</cell>
+                     <cell>0</cell>
+                     <cell>1 ¼</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Caermarthen.</hi>
+                     </cell>
+                     <cell>544.</cell>
+                     <cell>13.</cell>
+                     <cell>4</cell>
+                     <cell>003957128</cell>
+                     <cell>700000</cell>
+                     <cell>5352</cell>
+                     <cell>254</cell>
+                     <cell>57</cell>
+                     <cell>218</cell>
+                     <cell>131</cell>
+                     <cell>0</cell>
+                     <cell>2 ¼</cell>
+                     <cell>24</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Carnarvan.</hi>
+                     </cell>
+                     <cell>293.</cell>
+                     <cell>4.</cell>
+                     <cell>4</cell>
+                     <cell>002130286</cell>
+                     <cell>370000</cell>
+                     <cell>2765</cell>
+                     <cell>470</cell>
+                     <cell>108</cell>
+                     <cell>423</cell>
+                     <cell>134</cell>
+                     <cell>0</cell>
+                     <cell>2 ¼</cell>
+                     <cell>25</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Denbigh.</hi>
+                     </cell>
+                     <cell>447.</cell>
+                     <cell>1.</cell>
+                     <cell>2</cell>
+                     <cell>003247981</cell>
+                     <cell>410000</cell>
+                     <cell>6398</cell>
+                     <cell>308</cell>
+                     <cell>98</cell>
+                     <cell>183</cell>
+                     <cell>64</cell>
+                     <cell>0</cell>
+                     <cell>31/8</cell>
+                     <cell>16</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Flint.</hi>
+                     </cell>
+                     <cell>237.</cell>
+                     <cell>14.</cell>
+                     <cell>8</cell>
+                     <cell>001727187</cell>
+                     <cell>160000</cell>
+                     <cell>3150</cell>
+                     <cell>580</cell>
+                     <cell>250</cell>
+                     <cell>371</cell>
+                     <cell>51</cell>
+                     <cell>0</cell>
+                     <cell>4 ¼</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Glamorgan.</hi>
+                     </cell>
+                     <cell>757.</cell>
+                     <cell>15.</cell>
+                     <cell>8</cell>
+                     <cell>005505469</cell>
+                     <cell>540000</cell>
+                     <cell>9644</cell>
+                     <cell>182</cell>
+                     <cell>74</cell>
+                     <cell>121</cell>
+                     <cell>56</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>18</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Merioneth.</hi>
+                     </cell>
+                     <cell>201.</cell>
+                     <cell>12.</cell>
+                     <cell>2</cell>
+                     <cell>001464730</cell>
+                     <cell>500000</cell>
+                     <cell>2590</cell>
+                     <cell>685</cell>
+                     <cell>80</cell>
+                     <cell>451</cell>
+                     <cell>193</cell>
+                     <cell>0</cell>
+                     <cell>1 ¼</cell>
+                     <cell>18</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Montgomery.</hi>
+                     </cell>
+                     <cell>553.</cell>
+                     <cell>4.</cell>
+                     <cell>4</cell>
+                     <cell>004019245</cell>
+                     <cell>560000</cell>
+                     <cell>5660</cell>
+                     <cell>249</cell>
+                     <cell>71 ½</cell>
+                     <cell>207</cell>
+                     <cell>99</cell>
+                     <cell>0</cell>
+                     <cell>3</cell>
+                     <cell>23</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pembroke.</hi>
+                     </cell>
+                     <cell>653.</cell>
+                     <cell>0.</cell>
+                     <cell>0</cell>
+                     <cell>004744194</cell>
+                     <cell>420000</cell>
+                     <cell>4329</cell>
+                     <cell>201</cell>
+                     <cell>95</cell>
+                     <cell>270</cell>
+                     <cell>97</cell>
+                     <cell>0</cell>
+                     <cell>43/4</cell>
+                     <cell>36</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Haverford</hi> Weſt.</cell>
+                     <cell>30.</cell>
+                     <cell>6.</cell>
+                     <cell>10</cell>
+                     <cell>000220439</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Radnor.</hi>
+                     </cell>
+                     <cell>348.</cell>
+                     <cell>13.</cell>
+                     <cell>4</cell>
+                     <cell>002533143</cell>
+                     <cell>310000</cell>
+                     <cell>3158</cell>
+                     <cell>395</cell>
+                     <cell>129</cell>
+                     <cell>370</cell>
+                     <cell>98</cell>
+                     <cell>0</cell>
+                     <cell>3 ¼</cell>
+                     <cell>26</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Summ Total,</cell>
+                     <cell role="total">137641</cell>
+                     <cell role="total">18</cell>
+                     <cell role="total">2</cell>
+                     <cell role="total">1<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>00000000</cell>
+                     <cell role="total">39938500</cell>
+                     <cell role="total">1175951</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randal Taylor,</hi> near <hi>Stationers-Hall,</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
